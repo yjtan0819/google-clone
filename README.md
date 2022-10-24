@@ -36,8 +36,9 @@ $ py manage.py runserver
 ## Usage
 
 ```sh
-Type your request into the search box
+Type in your request into the search box
 ```
+![alt text](https://github.com/yjtan0819/Google-Clone/blob/master/images/Google_HomePage.jpg?raw=true)
 
 ## Author
 
