@@ -36,7 +36,7 @@ $ py manage.py runserver
 ## Usage
 
 ```sh
-test
+Type your request into the search box
 ```
 
 ## Author
@@ -50,20 +50,3 @@ test
 
 Copyright © 2022 [Yi Jia Tan](https://github.com/yjtan0819).<br />
 This project is [MIT](https://github.com/yjtan0819/Google-Clone/blob/master/LICENSE) licensed.
-
-
-
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-
-
-
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-
-
