@@ -16,7 +16,7 @@
 
 1. CD until you reach the root folder
 
-![alt text](https://github.com/yjtan0819/Google-Clone/blob/master/images/Root_directory.jpg?raw=true)
+![alt text](https://github.com/yjtan0819/Google-Clone/blob/master/images/Root.jpg?raw=true)
 
 2. Install 
 ` 
@@ -32,7 +32,7 @@ $ py manage.py runserver
 ```
 4. Open the server `http:127.0.0.1:8000` using your browser
 
-![alt text](https://github.com/yjtan0819/Google-Clone/blob/master/images/Open_server.jpg?raw=true)
+![alt text](https://github.com/yjtan0819/Google-Clone/blob/master/images/Server_Screen.jpg?raw=true)
 ## Usage
 
 
