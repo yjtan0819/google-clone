@@ -35,9 +35,9 @@ $ py manage.py runserver
 ![alt text](https://github.com/yjtan0819/Google-Clone/blob/master/images/Open_server.jpg?raw=true)
 ## Usage
 
-```sh
+
 Type in your request into the search box
-```
+
 ![alt text](https://github.com/yjtan0819/Google-Clone/blob/master/images/Google_HomePage.jpg?raw=true)
 
 ## Author
