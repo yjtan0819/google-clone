@@ -30,8 +30,9 @@ $ pip install -r requirements.txt
 ```sh
 $ py manage.py runserver
 ```
-4. Open the server using your browser
+4. Open the server `http:127.0.0.1:8000` using your browser
 
+![alt text](https://github.com/yjtan0819/Google-Clone/blob/master/images/Open_server.jpg?raw=true)
 ## Usage
 
 ```sh
