@@ -15,8 +15,10 @@
 ## Install
 
 1. CD until you reach the root folder
-![alt text](image.png)
-1. Install 
+
+![alt text](https://github.com/yjtan0819/Google-Clone/blob/master/images/Root_directory.jpg?raw=true)
+
+2. Install 
 ` 
 requirements.txt
 `file
@@ -24,10 +26,12 @@ requirements.txt
 ```sh
 $ pip install -r requirements.txt
 ```
-2. Run the server on your local host
+3. Run the server on your local host
 ```sh
-$ py 
+$ py manage.py runserver
 ```
+4. Open the server using your browser
+
 ## Usage
 
 ```sh
